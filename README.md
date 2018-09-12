@@ -11,3 +11,15 @@
 3、目前，该APP不会泄露您的任何隐私信息，请你放心使用。
 
 最后，非常感谢您的信任和与认可。
+
+This APP is an assistant tool APP. You need to be familiar with the following matters concerning the user privacy agreement:
+
+1. We will further explain the type of information we collect from you and the corresponding purposes for you to understand and use, such as:
+1) camera permissions: we will use your photos after you take a picture to fill the content of APP class (including the head and some other places requiring pictures);
+2) album permissions: used to use pictures or save pictures to your mobile phone;
+
+2. When you use a certain function, we will get your consent before we start using the function; If you deny us access to your permissions, it will not affect your use of other functions.
+
+3. At present, the APP will not disclose any of your private information, so please feel free to use it.
+
+Finally, thank you very much for your trust and recognition.
