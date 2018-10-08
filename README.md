@@ -1,4 +1,4 @@
-                                       User privacy policy
+       User privacy policy
                                        
 We know the importance of personal information to you and will do our best to protect your personal information. We are committed to maintaining your trust in us, abiding by the following principles and protecting your personal information: the principle of unanimity of power and responsibility, the principle of clear purpose, the principle of choice and consent, the principle of minimum utility, the principle of ensuring security, the principle of participation in the main body, the principle of openness and transparency. At the same time, we promise that we will take appropriate security measures to protect your personal information in accordance with the industry's mature security standards.
 Please read and understand the privacy policy carefully before using our products (or services).
